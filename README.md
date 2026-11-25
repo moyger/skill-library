@@ -50,6 +50,6 @@ Edit each skill in its own folder. Keep examples and trial results beside the sk
 
 ## Licence
 
-The original skill instructions, documentation and installer use the [MIT licence](LICENSE). Seven skills adapt work by MC Dean from [Designer Skills](https://github.com/Owl-Listener/designer-skills). Each adapted skill credits its source and includes its original MIT notice in `UPSTREAM-LICENSE.txt`.
+The skill instructions, documentation and installer use the [MIT licence](LICENSE).
 
 When sharing an individual skill, include a copy of the root `LICENSE` and any `UPSTREAM-LICENSE.txt` in that skill’s folder.
